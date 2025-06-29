@@ -1,6 +1,6 @@
 # 🛠️ Service Marketplace App
 
-A modern Flutter application for browsing service providers, viewing service categories, promotional banners, and posting jobs. Built with clean UI/UX and API integration from [ProHandy API](https://prohandy.xgenious.com).
+A modern Flutter application for browsing service providers, viewing service categories, promotional banners, and posting jobs. Built with clean UI/UX and API integration.
 
 ---
 
